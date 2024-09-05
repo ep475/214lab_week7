@@ -1,1 +1,1 @@
-# 214lab_week7
+# This repository is for practicing the GitHub Flow
